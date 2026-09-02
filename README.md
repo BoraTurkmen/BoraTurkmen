@@ -1,5 +1,5 @@
 # Bora Turkmen
-Hello, I'm Bora. I'm a Computer Science Graduate and I am currently pursuing my Masters of Science in Management at the University of Florida focused on combining my technical background with my business education.
+Hello, I'm Bora. I'm a Computer Science Graduate and I am currently pursuing my Masters of Science at the University of Florida focused on combining my technical background with my business education.
 
 ## 🔭 Current
 - Interned at: IBM — role: Application Developer
